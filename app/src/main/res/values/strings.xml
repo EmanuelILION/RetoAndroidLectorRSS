@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetoAndroidLectorRSS</string>
+
+    <string name="button_web_name">Ver en el navegador</string>
+    <string name="refresh">Desliza de arriba hacia abajo para refrescar</string>
+
+    <string-array name="selectNodes">
+        <item>Internacional</item>
+        <item>España</item>
+        <item>Economia</item>
+    </string-array>
+
+</resources>

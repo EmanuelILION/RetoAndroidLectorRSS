@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b53f41</color>
+    <color name="colorPrimaryDark">#b60104</color>
+    <color name="colorAccent">#202020</color>
+
+    <color name="colorSplashBackground">#212121</color>
+    <color name="colorProgressBar">#ffffff</color>
+    <color name="colorTextTitle">#000000</color>
+
+    <color name="spinnerPopUp">#565656</color>
+
+</resources>
